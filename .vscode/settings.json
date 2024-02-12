@@ -5,6 +5,7 @@
         "postgresserver",
         "pydantic",
         "sessionmaker",
-        "sqlalchemy"
+        "sqlalchemy",
+        "uselist"
     ]
 }
